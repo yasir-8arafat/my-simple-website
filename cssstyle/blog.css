@@ -9,3 +9,16 @@ h2{
     text-decoration: underline;
     font-style: italic;
 }
+h3{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+    border: 10px solid green;
+    box-shadow: 10px black 10px;
+}
+li{
+    margin-bottom: 10px;
+    background-color: brown;
+    font-style: italic;
+    color: blueviolet;
+}
